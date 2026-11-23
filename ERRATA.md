@@ -7,9 +7,9 @@
 - Coding Có = 1, Không = 2 reproduces the printed coefficients exactly and all other coefficients (for example CAP 0.1354034 in Pooled OLS) to the digit.
 - Coding Có = 1, Không = 0 flips every COVID19 coefficient to positive (+0.1439567, +0.1870423, +0.1846686, +0.201074); p-values and all other coefficients are unchanged.
 
-Consequence: the hypothesis of a negative COVID-19 effect on NIM is not supported. The thesis files in `thesis/` are the original submitted versions and still contain the printed sign.
+Consequence: the hypothesis of a negative COVID-19 effect on NIM is not supported. The originally submitted thesis (not included in this repository) still prints the negative sign.
 
-**VI.** Luận văn in hệ số COVID19 âm do Stata mã hóa Có = 1, Không = 2 (theo thứ tự chữ cái). Mã lại Có = 1, Không = 0 cho dấu dương; các hệ số khác và mọi p-value không đổi. Giả thuyết COVID-19 làm giảm NIM không được ủng hộ. Các file trong `thesis/` là bản gốc đã nộp và vẫn mang dấu in.
+**VI.** Luận văn in hệ số COVID19 âm do Stata mã hóa Có = 1, Không = 2 (theo thứ tự chữ cái). Mã lại Có = 1, Không = 0 cho dấu dương; các hệ số khác và mọi p-value không đổi. Giả thuyết COVID-19 làm giảm NIM không được ủng hộ. Bản luận văn gốc đã nộp (không đăng trong repo này) vẫn in dấu âm.
 
 ## Other items / Các mục khác
 

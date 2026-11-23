@@ -13,7 +13,6 @@ Balanced panel of 27 listed joint-stock banks (297 bank-year observations), Pool
 | Robustness re-estimation (code, results) | [reestimation/](reestimation/): wild cluster bootstrap by year, Nickell-bias correction, Mundlak test, leave-one-bank-out, out-of-sample RMSE |
 | One-page English summary | [SUMMARY.md](SUMMARY.md) |
 | Errata | [ERRATA.md](ERRATA.md) |
-| Original thesis | [thesis folder](thesis) |
 | Data | [data folder](data) |
 
 ## Note on the COVID-19 coefficient
@@ -22,6 +21,6 @@ The printed thesis reports a negative COVID19 coefficient. The sign is an artefa
 
 ## Structure
 
-Each HTML page is a single static file with no build step and no external requests: index.html (landing page), report/index.html (research report), presentation/index.html (interactive presentation), reestimation/ (Python re-estimation code and results; the data workbook is in data/). The original thesis is in thesis/, the panel data in data/, and the summary and errata are SUMMARY.md and ERRATA.md.
+Each HTML page is a single static file with no build step and no external requests: index.html (landing page), report/index.html (research report), presentation/index.html (interactive presentation), reestimation/ (Python re-estimation code and results; the data workbook is in data/). The panel data is in data/, and the summary and errata are SUMMARY.md and ERRATA.md.
 
 Academic analysis, not investment advice.
