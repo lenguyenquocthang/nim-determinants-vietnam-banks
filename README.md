@@ -2,7 +2,7 @@
 
 Panel-econometric study of bank net interest margin (NIM) for **27 listed Vietnamese joint-stock commercial banks over 2013–2023 (N·T = 297, balanced)**, including a COVID-19 period effect. Part of my [quant portfolio](https://github.com/lenguyenquocthang/quant-portfolio); a related study is [nim-determinants-vietnam-banks-2018-2023](https://github.com/lenguyenquocthang/nim-determinants-vietnam-banks-2018-2023).
 
-**Pages:** [Landing](https://lenguyenquocthang.github.io/nim-determinants-vietnam-banks/) · [Interactive walkthrough](https://lenguyenquocthang.github.io/nim-determinants-vietnam-banks/storytelling/) · [Research report](https://lenguyenquocthang.github.io/nim-determinants-vietnam-banks/report/)
+**Pages:** [Landing](https://lenguyenquocthang.github.io/nim-determinants-vietnam-banks/) · [Scroll presentation](https://lenguyenquocthang.github.io/nim-determinants-vietnam-banks/presentation/) · [Research report](https://lenguyenquocthang.github.io/nim-determinants-vietnam-banks/report/)
 
 ## Specification
 
@@ -40,7 +40,7 @@ Rebuilt from the raw workbook: the **bank-level** results are robust, the **macr
 | Path | Content |
 |---|---|
 | `report/` | Research report (VI/EN), with checks and errata |
-| `storytelling/` | Interactive walkthrough (VI/EN, light/dark) |
+| `presentation/` | Scroll presentation (VI/EN, light/dark) |
 | `data/` | Balanced panel: NIM, CAR, CAP, LDR, NPL, ER, INF, GDP, COVID |
 | `reestimation/` | Python code: Pooled/FEM/REM, Mundlak, wild bootstrap, Nickell, leave-one-out, rolling-origin test |
 | `ERRATA.md`, `SUMMARY.md` | COVID sign correction; one-page summary |
